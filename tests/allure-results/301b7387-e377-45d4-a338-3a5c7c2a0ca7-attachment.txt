@@ -1,0 +1,8 @@
+INFO:api_utils:Пользователь 455p.l19rl6z@mail.ru успешно зарегистрирован.
+INFO:api_utils:Пользователь 455p.l19rl6z@mail.ru успешно авторизован.
+INFO:api_utils:Ответ сервера при авторизации: {'success': True, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MDIwNDcwOWVkMjgwMDAxYjVjYjRiMSIsImlhdCI6MTc0NDk2MjY3MywiZXhwIjoxNzQ0OTYzODczfQ.f4eyRD-sXbgGEa8cyi2meM1q4fzSHPs7Qhkv0IAShN8', 'refreshToken': '595ff19bf1b49751b50ebaa9ecae093b3a19a0ba336f6183292ed27802e2ee3c5df9df9559ee5f94', 'user': {'email': '455p.l19rl6z@mail.ru', 'name': 'LuySqXMsla'}}
+INFO:api_utils:Выполнение POST запроса к https://stellarburgers.nomoreparties.site/api/auth/register (попытка 1)
+INFO:api_utils:Выполнение PATCH запроса к https://stellarburgers.nomoreparties.site/api/auth/user (попытка 1)
+INFO:api_utils:Сообщение об ошибке: User with such email already exists
+INFO:api_utils:Проверено, что нельзя обновить email на существующий.
+INFO:api_utils:Пользователь 455p.l19rl6z@mail.ru успешно удален.

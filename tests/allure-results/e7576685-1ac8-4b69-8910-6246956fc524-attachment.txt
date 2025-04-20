@@ -1,0 +1,8 @@
+INFO:api_utils:Пользователь 7c6me.kcj2r@mail.ru успешно зарегистрирован.
+INFO:api_utils:Пользователь 7c6me.kcj2r@mail.ru успешно авторизован.
+INFO:api_utils:Ответ сервера при авторизации: {'success': True, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MDExMzA3OWVkMjgwMDAxYjVjOWIwMSIsImlhdCI6MTc0NDkwMDg3MiwiZXhwIjoxNzQ0OTAyMDcyfQ.4DNTX7gBNqOmG92pugrw184cXll_22ABACRqSiw1HdM', 'refreshToken': '4a51fcfff2f349858046b123e5bde42fd63002bdedcc9d1ad9a74300d56b57695c171ba8e5bd3ed4', 'user': {'email': '7c6me.kcj2r@mail.ru', 'name': 'yQPGhFhWu'}}
+INFO:api_utils:Выполнение POST запроса к https://stellarburgers.nomoreparties.site/api/auth/register (попытка 1)
+INFO:api_utils:Выполнение PATCH запроса к https://stellarburgers.nomoreparties.site/api/auth/user (попытка 1)
+INFO:api_utils:Сообщение об ошибке: User with such email already exists
+INFO:api_utils:Проверено, что нельзя обновить email на существующий.
+INFO:api_utils:Пользователь 7c6me.kcj2r@mail.ru успешно удален.

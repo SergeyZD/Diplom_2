@@ -1,0 +1,6 @@
+INFO:api_utils:Пользователь 5rycq4ocwl5@mail.ru успешно зарегистрирован.
+INFO:api_utils:Пользователь 5rycq4ocwl5@mail.ru успешно авторизован.
+INFO:api_utils:Ответ сервера при авторизации: {'success': True, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MDIwNDY1OWVkMjgwMDAxYjVjYjQ5ZSIsImlhdCI6MTc0NDk2MjY2MSwiZXhwIjoxNzQ0OTYzODYxfQ.t57UUM8K8uMsC-rG9QHI0_S3KrNxUuCu7p4775VDjEk', 'refreshToken': '38de6c822bd8c82ef55b712eba9d2237d1b3d7e6860aca1d1b8d8fb8da9dc5d1e1abbe559d653fba', 'user': {'email': '5rycq4ocwl5@mail.ru', 'name': 'zTiZQkYy'}}
+INFO:api_utils:Выполнение GET запроса к https://stellarburgers.nomoreparties.site/api/orders (попытка 1)
+INFO:api_utils:Успешно получены заказы пользователя (с авторизацией).
+INFO:api_utils:Пользователь 5rycq4ocwl5@mail.ru успешно удален.

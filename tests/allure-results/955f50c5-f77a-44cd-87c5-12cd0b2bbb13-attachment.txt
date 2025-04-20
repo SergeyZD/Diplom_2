@@ -1,0 +1,6 @@
+INFO:api_utils:Пользователь w1mlufh9y1z9q@mail.ru успешно зарегистрирован.
+INFO:api_utils:Пользователь w1mlufh9y1z9q@mail.ru успешно авторизован.
+INFO:api_utils:Ответ сервера при авторизации: {'success': True, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MDExMzAwOWVkMjgwMDAxYjVjOWFmNSIsImlhdCI6MTc0NDkwMDg2NCwiZXhwIjoxNzQ0OTAyMDY0fQ.WvBqaVj3J7F_VGsmWtjaa8NBftj4ah7iO35lkj4A9uI', 'refreshToken': '43bc38769f3fb4365545432972e03447374518edd4773a97e7b178a770622be94f3f2f8a202a7484', 'user': {'email': 'w1mlufh9y1z9q@mail.ru', 'name': 'rYOBhLJWqD'}}
+INFO:api_utils:Выполнение POST запроса к https://stellarburgers.nomoreparties.site/api/auth/login (попытка 1)
+INFO:api_utils:Успешный вход пользователя w1mlufh9y1z9q@mail.ru.
+INFO:api_utils:Пользователь w1mlufh9y1z9q@mail.ru успешно удален.

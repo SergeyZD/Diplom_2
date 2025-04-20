@@ -1,0 +1,7 @@
+[32mINFO    [0m api_utils:conftest.py:41 Пользователь 4j31vmsl1ejfm@mail.ru успешно зарегистрирован.
+[32mINFO    [0m api_utils:conftest.py:64 Пользователь 4j31vmsl1ejfm@mail.ru успешно авторизован.
+[32mINFO    [0m api_utils:conftest.py:65 Ответ сервера при авторизации: {'success': True, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MDExMzA1OWVkMjgwMDAxYjVjOWFmZSIsImlhdCI6MTc0NDkwMDg2OSwiZXhwIjoxNzQ0OTAyMDY5fQ.OKRSvEkd-gyh2opSUylKqNaTDkMUq0A_bwTXGhLlyYE', 'refreshToken': 'a04c074719ac01104034a19b15ecb51b2a78fc948ced65b1baaf00c2805d7b574d529c6ae5d5e34b', 'user': {'email': '4j31vmsl1ejfm@mail.ru', 'name': 'JJabkxhS'}}
+[32mINFO    [0m api_utils:test_user_profile.py:49 Новые данные пользователя: {'email': '0wyv1xzz7r@mail.ru', 'name': 'Allison Hill', 'password': 'sW2LUBGS'}
+[32mINFO    [0m api_utils:api_utils.py:19 Выполнение PATCH запроса к https://stellarburgers.nomoreparties.site/api/auth/user (попытка 1)
+[32mINFO    [0m api_utils:test_user_profile.py:59 Профиль пользователя 4j31vmsl1ejfm@mail.ru успешно обновлен.
+[32mINFO    [0m api_utils:conftest.py:84 Пользователь 0wyv1xzz7r@mail.ru успешно удален.

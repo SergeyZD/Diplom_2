@@ -1,0 +1,6 @@
+[32mINFO    [0m api_utils:conftest.py:41 Пользователь kuzy64py@mail.ru успешно зарегистрирован.
+[32mINFO    [0m api_utils:conftest.py:64 Пользователь kuzy64py@mail.ru успешно авторизован.
+[32mINFO    [0m api_utils:conftest.py:65 Ответ сервера при авторизации: {'success': True, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MDExMzAzOWVkMjgwMDAxYjVjOWFmYiIsImlhdCI6MTc0NDkwMDg2NywiZXhwIjoxNzQ0OTAyMDY3fQ.uU247HHFwJdFYO5R4lUFEGTLjVxH0vL5lHCg73YwL6c', 'refreshToken': '2f81cb7a1f3c183999f9dcce2a861658188553845019be328e7147d6f14502f276d39415afe48ef3', 'user': {'email': 'kuzy64py@mail.ru', 'name': 'fjlWhSLV'}}
+[32mINFO    [0m api_utils:api_utils.py:19 Выполнение GET запроса к https://stellarburgers.nomoreparties.site/api/auth/user (попытка 1)
+[32mINFO    [0m api_utils:test_user_profile.py:25 Успешно получен профиль пользователя kuzy64py@mail.ru (с авторизацией).
+[32mINFO    [0m api_utils:conftest.py:84 Пользователь kuzy64py@mail.ru успешно удален.

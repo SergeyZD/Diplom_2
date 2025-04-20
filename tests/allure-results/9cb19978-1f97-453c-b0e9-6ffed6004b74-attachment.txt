@@ -1,0 +1,5 @@
+GET https://stellarburgers.nomoreparties.site/api/auth/user
+Headers: {'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MDExMzAzOWVkMjgwMDAxYjVjOWFmYiIsImlhdCI6MTc0NDkwMDg2NywiZXhwIjoxNzQ0OTAyMDY3fQ.uU247HHFwJdFYO5R4lUFEGTLjVxH0vL5lHCg73YwL6c'}
+Body: None
+Response Code: 200
+Response Body: {"success":true,"user":{"email":"kuzy64py@mail.ru","name":"fjlWhSLV"}}

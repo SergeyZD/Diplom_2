@@ -1,0 +1,6 @@
+[32mINFO    [0m api_utils:conftest.py:41 Пользователь w1mlufh9y1z9q@mail.ru успешно зарегистрирован.
+[32mINFO    [0m api_utils:conftest.py:64 Пользователь w1mlufh9y1z9q@mail.ru успешно авторизован.
+[32mINFO    [0m api_utils:conftest.py:65 Ответ сервера при авторизации: {'success': True, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MDExMzAwOWVkMjgwMDAxYjVjOWFmNSIsImlhdCI6MTc0NDkwMDg2NCwiZXhwIjoxNzQ0OTAyMDY0fQ.WvBqaVj3J7F_VGsmWtjaa8NBftj4ah7iO35lkj4A9uI', 'refreshToken': '43bc38769f3fb4365545432972e03447374518edd4773a97e7b178a770622be94f3f2f8a202a7484', 'user': {'email': 'w1mlufh9y1z9q@mail.ru', 'name': 'rYOBhLJWqD'}}
+[32mINFO    [0m api_utils:api_utils.py:19 Выполнение POST запроса к https://stellarburgers.nomoreparties.site/api/auth/login (попытка 1)
+[32mINFO    [0m api_utils:test_user_login.py:27 Успешный вход пользователя w1mlufh9y1z9q@mail.ru.
+[32mINFO    [0m api_utils:conftest.py:84 Пользователь w1mlufh9y1z9q@mail.ru успешно удален.

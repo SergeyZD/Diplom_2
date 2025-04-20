@@ -1,0 +1,6 @@
+INFO:api_utils:Пользователь y9eqrinug9.tl8@mail.ru успешно зарегистрирован.
+INFO:api_utils:Пользователь y9eqrinug9.tl8@mail.ru успешно авторизован.
+INFO:api_utils:Ответ сервера при авторизации: {'success': True, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MDIwNDZjOWVkMjgwMDAxYjVjYjRhYiIsImlhdCI6MTc0NDk2MjY2OCwiZXhwIjoxNzQ0OTYzODY4fQ.xYO1oXlMXEuWrCAU3KB-Sf_Kn5W8u1tYrv2YHM0oQ40', 'refreshToken': 'c018592ffcd66c4ed86abb627147acdb79212661446677b48804bf26a20e7dc6bbda67ffc978667a', 'user': {'email': 'y9eqrinug9.tl8@mail.ru', 'name': 'pkDLjXTU'}}
+INFO:api_utils:Выполнение GET запроса к https://stellarburgers.nomoreparties.site/api/auth/user (попытка 1)
+INFO:api_utils:Успешно получен профиль пользователя y9eqrinug9.tl8@mail.ru (с авторизацией).
+INFO:api_utils:Пользователь y9eqrinug9.tl8@mail.ru успешно удален.

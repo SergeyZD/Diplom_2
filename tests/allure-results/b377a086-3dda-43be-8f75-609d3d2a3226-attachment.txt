@@ -1,0 +1,5 @@
+PATCH https://stellarburgers.nomoreparties.site/api/auth/user
+Headers: {'Content-Type': 'application/json'}
+Body: {'email': 'cej513pku7@mail.ru', 'password': 'XM3NEOrL', 'name': 'zZrBCbymWF'}
+Response Code: 401
+Response Body: {"success":false,"message":"You should be authorised"}

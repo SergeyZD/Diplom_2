@@ -1,0 +1,7 @@
+INFO:api_utils:Пользователь hfw2vqjv30@mail.ru успешно зарегистрирован.
+INFO:api_utils:Пользователь hfw2vqjv30@mail.ru успешно авторизован.
+INFO:api_utils:Ответ сервера при авторизации: {'success': True, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MDIwNDYzOWVkMjgwMDAxYjVjYjQ5YiIsImlhdCI6MTc0NDk2MjY1OSwiZXhwIjoxNzQ0OTYzODU5fQ.gSlO5bt2FuO1Ys_guX2dbDBCVsAMibNVB9FU7GExKlw', 'refreshToken': '6975f007b2057fa8c3b6186e5160d2caf81b516f25b08b4a6f899e347c35601a631e73e254a0d5d0', 'user': {'email': 'hfw2vqjv30@mail.ru', 'name': 'ZHOfhlrgne'}}
+INFO:api_utils:Payload для создания заказа с авторизацией и невалидными ингредиентами: {'ingredients': ['invalid_ingredient_id']}
+INFO:api_utils:Заголовки для создания заказа с авторизацией и невалидными ингредиентами: {'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MDIwNDYzOWVkMjgwMDAxYjVjYjQ5YiIsImlhdCI6MTc0NDk2MjY1OSwiZXhwIjoxNzQ0OTYzODU5fQ.gSlO5bt2FuO1Ys_guX2dbDBCVsAMibNVB9FU7GExKlw', 'Content-Type': 'application/json'}
+INFO:api_utils:Выполнение POST запроса к https://stellarburgers.nomoreparties.site/api/orders (попытка 1)
+INFO:api_utils:Пользователь hfw2vqjv30@mail.ru успешно удален.
