@@ -1,0 +1,7 @@
+INFO:api_utils:Пользователь 4j31vmsl1ejfm@mail.ru успешно зарегистрирован.
+INFO:api_utils:Пользователь 4j31vmsl1ejfm@mail.ru успешно авторизован.
+INFO:api_utils:Ответ сервера при авторизации: {'success': True, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MDExMzA1OWVkMjgwMDAxYjVjOWFmZSIsImlhdCI6MTc0NDkwMDg2OSwiZXhwIjoxNzQ0OTAyMDY5fQ.OKRSvEkd-gyh2opSUylKqNaTDkMUq0A_bwTXGhLlyYE', 'refreshToken': 'a04c074719ac01104034a19b15ecb51b2a78fc948ced65b1baaf00c2805d7b574d529c6ae5d5e34b', 'user': {'email': '4j31vmsl1ejfm@mail.ru', 'name': 'JJabkxhS'}}
+INFO:api_utils:Новые данные пользователя: {'email': '0wyv1xzz7r@mail.ru', 'name': 'Allison Hill', 'password': 'sW2LUBGS'}
+INFO:api_utils:Выполнение PATCH запроса к https://stellarburgers.nomoreparties.site/api/auth/user (попытка 1)
+INFO:api_utils:Профиль пользователя 4j31vmsl1ejfm@mail.ru успешно обновлен.
+INFO:api_utils:Пользователь 0wyv1xzz7r@mail.ru успешно удален.

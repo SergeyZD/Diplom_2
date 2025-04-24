@@ -1,0 +1,7 @@
+[32mINFO    [0m api_utils:conftest.py:41 Пользователь n3gp24nezhakf@mail.ru успешно зарегистрирован.
+[32mINFO    [0m api_utils:conftest.py:64 Пользователь n3gp24nezhakf@mail.ru успешно авторизован.
+[32mINFO    [0m api_utils:conftest.py:65 Ответ сервера при авторизации: {'success': True, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MDIwNDZlOWVkMjgwMDAxYjVjYjRhZSIsImlhdCI6MTc0NDk2MjY3MCwiZXhwIjoxNzQ0OTYzODcwfQ.WihcuL7e4WJskihD19beEt0SBRdxUeCZZdL2Vuielao', 'refreshToken': '168fd8a7f7cf7c64dde27318e18b306557eb2d46064614001ff563386c26ab427794397457a92aad', 'user': {'email': 'n3gp24nezhakf@mail.ru', 'name': 'HHdBYLCO'}}
+[32mINFO    [0m api_utils:test_user_profile.py:49 Новые данные пользователя: {'email': 'oo1d7n1iiynvb1@mail.ru', 'name': 'Allison Hill', 'password': 'f8VUsAc'}
+[32mINFO    [0m api_utils:api_utils.py:19 Выполнение PATCH запроса к https://stellarburgers.nomoreparties.site/api/auth/user (попытка 1)
+[32mINFO    [0m api_utils:test_user_profile.py:59 Профиль пользователя n3gp24nezhakf@mail.ru успешно обновлен.
+[32mINFO    [0m api_utils:conftest.py:84 Пользователь oo1d7n1iiynvb1@mail.ru успешно удален.

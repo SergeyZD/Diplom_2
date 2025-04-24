@@ -1,0 +1,5 @@
+GET https://stellarburgers.nomoreparties.site/api/orders
+Headers: {'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MDIwNDY1OWVkMjgwMDAxYjVjYjQ5ZSIsImlhdCI6MTc0NDk2MjY2MSwiZXhwIjoxNzQ0OTYzODYxfQ.t57UUM8K8uMsC-rG9QHI0_S3KrNxUuCu7p4775VDjEk'}
+Body: None
+Response Code: 200
+Response Body: {"success":true,"orders":[],"total":214816,"totalToday":800}

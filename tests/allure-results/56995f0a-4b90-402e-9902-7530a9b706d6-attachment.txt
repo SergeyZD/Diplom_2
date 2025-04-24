@@ -1,0 +1,6 @@
+[32mINFO    [0m api_utils:conftest.py:41 Пользователь pbgz9bwlfnlg@mail.ru успешно зарегистрирован.
+[32mINFO    [0m api_utils:conftest.py:64 Пользователь pbgz9bwlfnlg@mail.ru успешно авторизован.
+[32mINFO    [0m api_utils:conftest.py:65 Ответ сервера при авторизации: {'success': True, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MDExMmZiOWVkMjgwMDAxYjVjOWFlYiIsImlhdCI6MTc0NDkwMDg2MCwiZXhwIjoxNzQ0OTAyMDYwfQ.oiAlIOx0C2fShdFCqidVhHcoO8RPEUuPORp_KjWqKsQ', 'refreshToken': '426362dbd434068c40133d7a40f4c31123fc76c182f3c3718ccd8b76a045e761cc7cd149a1263a08', 'user': {'email': 'pbgz9bwlfnlg@mail.ru', 'name': 'LOmpOP'}}
+[32mINFO    [0m api_utils:api_utils.py:19 Выполнение GET запроса к https://stellarburgers.nomoreparties.site/api/orders (попытка 1)
+[32mINFO    [0m api_utils:test_get_user_orders.py:26 Успешно получены заказы пользователя (с авторизацией).
+[32mINFO    [0m api_utils:conftest.py:84 Пользователь pbgz9bwlfnlg@mail.ru успешно удален.

@@ -1,0 +1,6 @@
+INFO:api_utils:Пользователь 2q2h4o.k@mail.ru успешно зарегистрирован.
+INFO:api_utils:Пользователь 2q2h4o.k@mail.ru успешно авторизован.
+INFO:api_utils:Ответ сервера при авторизации: {'success': True, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MDIwNDY5OWVkMjgwMDAxYjVjYjRhNSIsImlhdCI6MTc0NDk2MjY2NiwiZXhwIjoxNzQ0OTYzODY2fQ.geA93K67GWU4IzP6XgTqMXRZxc8aUyTQqFqBys0KfwE', 'refreshToken': '783620885e75691a177f4440b325c066a1ee88f6cd281d13fdd61906d94ef884587d144db0de082f', 'user': {'email': '2q2h4o.k@mail.ru', 'name': 'LHavfjKZ'}}
+INFO:api_utils:Выполнение POST запроса к https://stellarburgers.nomoreparties.site/api/auth/login (попытка 1)
+INFO:api_utils:Успешный вход пользователя 2q2h4o.k@mail.ru.
+INFO:api_utils:Пользователь 2q2h4o.k@mail.ru успешно удален.

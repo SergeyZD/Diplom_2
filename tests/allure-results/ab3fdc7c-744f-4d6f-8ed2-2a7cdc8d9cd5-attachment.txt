@@ -1,0 +1,6 @@
+INFO:api_utils:Пользователь kuzy64py@mail.ru успешно зарегистрирован.
+INFO:api_utils:Пользователь kuzy64py@mail.ru успешно авторизован.
+INFO:api_utils:Ответ сервера при авторизации: {'success': True, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MDExMzAzOWVkMjgwMDAxYjVjOWFmYiIsImlhdCI6MTc0NDkwMDg2NywiZXhwIjoxNzQ0OTAyMDY3fQ.uU247HHFwJdFYO5R4lUFEGTLjVxH0vL5lHCg73YwL6c', 'refreshToken': '2f81cb7a1f3c183999f9dcce2a861658188553845019be328e7147d6f14502f276d39415afe48ef3', 'user': {'email': 'kuzy64py@mail.ru', 'name': 'fjlWhSLV'}}
+INFO:api_utils:Выполнение GET запроса к https://stellarburgers.nomoreparties.site/api/auth/user (попытка 1)
+INFO:api_utils:Успешно получен профиль пользователя kuzy64py@mail.ru (с авторизацией).
+INFO:api_utils:Пользователь kuzy64py@mail.ru успешно удален.

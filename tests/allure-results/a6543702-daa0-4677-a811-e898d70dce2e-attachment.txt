@@ -1,0 +1,5 @@
+POST https://stellarburgers.nomoreparties.site/api/auth/register
+Headers: {'Content-Type': 'application/json'}
+Body: {'email': 't4a1no0jfg@mail.ru', 'password': '28ztAY', 'name': 'gChfDH'}
+Response Code: 403
+Response Body: {"success":false,"message":"User already exists"}

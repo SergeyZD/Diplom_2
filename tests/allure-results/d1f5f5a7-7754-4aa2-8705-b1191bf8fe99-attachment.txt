@@ -1,0 +1,5 @@
+POST https://stellarburgers.nomoreparties.site/api/orders
+Headers: {'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MDIwNDYxOWVkMjgwMDAxYjVjYjQ5OCIsImlhdCI6MTc0NDk2MjY1OCwiZXhwIjoxNzQ0OTYzODU4fQ.8wVP_wUQJrS6mIzHQ5k_nJ8yWuz0kDwjyCjhaYQ6Slk', 'Content-Type': 'application/json'}
+Body: {'ingredients': []}
+Response Code: 400
+Response Body: {"success":false,"message":"Ingredient ids must be provided"}

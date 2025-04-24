@@ -1,0 +1,5 @@
+PATCH https://stellarburgers.nomoreparties.site/api/auth/user
+Headers: {'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MDExMzA1OWVkMjgwMDAxYjVjOWFmZSIsImlhdCI6MTc0NDkwMDg2OSwiZXhwIjoxNzQ0OTAyMDY5fQ.OKRSvEkd-gyh2opSUylKqNaTDkMUq0A_bwTXGhLlyYE', 'Content-Type': 'application/json'}
+Body: {'email': '0wyv1xzz7r@mail.ru', 'name': 'Allison Hill', 'password': 'sW2LUBGS'}
+Response Code: 200
+Response Body: {"success":true,"user":{"email":"0wyv1xzz7r@mail.ru","name":"Allison Hill"}}
